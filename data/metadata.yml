@@ -47,6 +47,9 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - ktexteditor
+    - kparts
+    - kpty
 type: git
 url: http://anongit.kde.org/cantor
 buildsystem: cmake
