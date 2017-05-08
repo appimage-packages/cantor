@@ -1,0 +1,13 @@
+name: cantor
+binary: cantor
+packages:
+  - zsync
+  #app specifc
+build_kf5: false
+frameworks: false
+deps_on_kf5: false
+type: git
+url: http://anongit.kde.org/cantor
+buildsystem: cmake
+buildoptions: '-DCMAKE_INSTALL_PREFIX:PATH=/app.Dir/usr -DKDE_INSTALL_SYSCONFDIR=/app.Dir/etc -DBUILD_TESTING=OFF'
+dependencies: false

@@ -4,7 +4,7 @@ Master branch:
 
 AppImage for KDE cantor
 
-Cantor is an application that lets you use your favorite mathematical applications from within a nice KDE-integrated Worksheet Interface. It offers assistant dialogs for common tasks and allows you to share your worksheets with others.
+cantor is a pronunciation trainer that helps improving and perfecting a learner's pronunciation skills for a foreign language. It provides courses with native speaker recordings for several training languages. The learner downloads those courses, selects a category of phrases to train, then starts with recording her/his own voice when speaking the phrases and comparing the results to the native speaker's recordings by listening to both. By adjusting and repeating the own pronunciation, the learner can improve his/her skill.
 
 https://edu.kde.org/cantor/
 
